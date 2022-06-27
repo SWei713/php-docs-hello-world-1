@@ -38,3 +38,4 @@ echo '</tr>';
 echo '</table>';
 echo '</body>';
 echo '</html>';
+?>
