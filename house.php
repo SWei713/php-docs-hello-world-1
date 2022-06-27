@@ -1,0 +1,33 @@
+<?php
+echo '<html>';
+echo '<head>';
+echo '<title>House </title>';
+echo '</head>';
+echo '<body style="background-color:#00FFFF;">';
+echo '<center><h1><strong>';
+echo '<p style="color:#800080"> My Dream House</strong></h1></p>';
+echo '<img src="https://weandthecolor.com/wp-content/uploads/2016/07/1-Beachyhead-residence-in-Plettenberg-Bay-South-Africa-by-SAOTA.jpg">';
+echo '<h2><p style="color:red">';
+echo 'My dream house should be a private house that will built on the<br> place a far from';
+echo 'other house to provide an peace environment.<br>Besides this , the design of the house';
+echo '<br> should also comfortable and suitable for living.';
+echo '</h2></p>';
+echo '<br><br><br>';
+echo '<h3>The basic of a dream house was the exterior design and the interior design of an house';
+echo '<br> My design can be seen as below:';
+echo '</h3>';
+echo '<img src="https://weandthecolor.com/wp-content/uploads/2016/07/6-Noble-interior-design.jpg">';
+echo '&nbsp;&nbsp;<img src="https://weandthecolor.com/wp-content/uploads/2016/07/2-View-from-the-road.jpg"><br>';
+echo '<a href="http://pelantar.xyz/BIC21203/AI190232/L2/interior.html">Interior Design</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;';
+echo '<a href="http://pelantar.xyz/BIC21203/AI190232/L2/exterior.html">Exterior Design</a>';
+echo '<br><br><br>';
+echo '<h2><p style="color:#FF8333">';
+echo 'Thank you for reading!! You can share your dream house with me too~~';
+echo '<br>';
+echo '<a href="mailto:shengweileow713@gmail.com">Email Me Now</a>';
+echo '</h2></p>';
+echo '</center>';
+echo '</body>';
+echo '</html>';
+echo '</html>';
+?>
