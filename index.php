@@ -1,5 +1,4 @@
 <?php
-
 echo '<html>';
 echo '<head>';
 echo '</head>';
